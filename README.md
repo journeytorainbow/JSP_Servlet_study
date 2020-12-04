@@ -1,4 +1,4 @@
-# JSP & Servlet  노트
+# JSP & Servlet 공부 노트
 
 + [인프런 - 실전 JSP강좌](https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-jsp_renew/dashboard)를 들으며 공부한 내용들을 정리
 + 정리 노트에 삽입된 이미지들은 모두 위 강의에서 제공되는 자료이다.
